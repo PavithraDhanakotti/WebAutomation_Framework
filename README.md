@@ -1,4 +1,4 @@
-# Selenium Automation Framework(with Java)
+# Web Automation Framework - Selenium(with Java)
 
 - Tutor - Pramod Dutta
 - Java, Selenium, TestNG
