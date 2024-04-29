@@ -1,6 +1,7 @@
-package org.WebAutomation.pages;
+package org.WebAutomation.pages.PageObjectModel;
 import org.WebAutomation.base.CommonToAllPage;
 import org.openqa.selenium.By;
+
 public class DashboardPage_POM extends CommonToAllPage{
     public DashboardPage_POM(){
 
